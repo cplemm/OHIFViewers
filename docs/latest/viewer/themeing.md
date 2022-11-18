@@ -17,7 +17,7 @@ open to pull requests and discussion issues.
   --ui-border-color: #44626f;
   --ui-border-color-dark: #3c5d80;
   --ui-border-color-active: #00a4d9;
-  --primary-background-color: #000000;
+  --primary-background-color: #009999;
   --box-background-color: #3e5975;
 
   --text-primary-color: #ffffff;
